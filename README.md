@@ -53,6 +53,7 @@ pfolio helps you manage the entire investment process with four integrated produ
 - **Facebook:** [pfolio.io](https://www.facebook.com/pfolio.io/)
 - **YouTube:** [@pfolio.io](https://www.youtube.com/@pfolio-io)
 - **LinkedIn:** [pfolio-io](https://www.linkedin.com/company/pfolio-io/)
+-  **X**: [@pfolio_io](https://x.com/pfolio_io)
 
 ---
 
